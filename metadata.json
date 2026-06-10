@@ -1,0 +1,6 @@
+{
+  "name": "Merqueagro",
+  "description": "Directorio de servicios y almacenes locales con sistema de fidelización por puntos acumulables para clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
